@@ -1,0 +1,19 @@
+{
+  "name": "Akshat",
+  "age": 19,
+  "emailId": "ofaks@gmail.com",
+  "family": [
+    {
+      "role": "brother",
+      "age": 20
+    },
+    {
+      "role": "mother",
+      "age": 45
+    }
+  ],
+  "address": {
+    "country": "india",
+    "city": "chandigarh"
+  }
+}
